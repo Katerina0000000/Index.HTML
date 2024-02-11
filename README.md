@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Сайт Сюсюри Катерини</title>
+    <title> Сайт Сюсюри Катерини </title>
   </head>
   <body>
     Добрий день 
