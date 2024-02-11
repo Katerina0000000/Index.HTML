@@ -1,10 +1,19 @@
-# Index.HTML
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Сайт Сюсюри Катерини </title>
+    <meta charset="utf-8">
+    <title>Малювання</title>
   </head>
   <body>
-    Добрий день 
+    <header>
+      Живопис, діджитал, аніме, окремий стиль
+    </header>
+    Про це хоббі
+    <section>
+      Живопис
+    </section>
+    <footer>
+      Сюсюра Катерина
+    </footer>
   </body>
 </html>
