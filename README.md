@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Малювання</title>
+    <title>Завдання</title>
   </head>
   <body>
     <header>
