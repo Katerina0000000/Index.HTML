@@ -12,6 +12,7 @@
     <section>
       <h2>13.02.24 README.md</h2>
       <h2>20.02.24 README.md</h2>
+      <h2>Завдання 7 README.md</h2>
     </section>
     <footer>
       Сюсюра Катерина
