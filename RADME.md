@@ -9,7 +9,7 @@
 <h2>README.md<h2>
 </header>
 <h1>Цікаві місця</h1>
-<a href="index.html"> <h2>Перша сторінка</h2></a>
+<a href="index.html"> <h2>README.md</h2></a>
 <ul style="list-style-type: square;"><h1> Цікаві місця України </h1>
 <li> Асканія-Нова </li>
 <li> Києво-Печерська лавра </li>
